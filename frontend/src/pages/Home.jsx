@@ -73,7 +73,7 @@ function Home() {
             <img
               src="/assets/image/profil.jpg"
               alt="profile"
-              className="w-full h-full object-cover rounded-full border-4 border-white shadow-lg"
+              className="w-full h-full object-cover rounded-full border-4 border-white shadow-lg  relative -left-15"
             />
           </div>
           <div className="absolute bottom-35 right-75 bg-white border border-white w-12 h-12 flex justify-center items-center rounded-full shadow-lg hover:scale-110 transition"> <img src="/assets/tools/figma.png" alt="Figma" className="w-8"/></div>
