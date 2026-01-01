@@ -25,7 +25,7 @@ const Navbar = () => {
         `}
       >
         {/* Logo */}
-        <h1 className="text-3xl font-semibold text-white">agungbgkt</h1>
+        <h1 className="text-3xl font-semibold text-white">Graphicode.tech</h1>
 
         {/* Desktop Menu */}
         <ul className="flex items-center gap-10">
@@ -59,7 +59,7 @@ const Navbar = () => {
       {/* ========= MOBILE NAVBAR ========= */}
       <div className="md:hidden Navbar py-7 flex items-center justify-between transition-all duration-500">
         {/* Logo */}
-        <h1 className="text-3xl font-semibold text-white p-1">agungbgkt</h1>
+        <h1 className="text-3xl font-semibold text-white p-1">Graphicode.tech</h1>
 
         {/* Floating menu center */}
         <ul

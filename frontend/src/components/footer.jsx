@@ -10,7 +10,7 @@ export default function Footer() {
 
         {/* LEFT */}
         <div className="text-center max-w-md">
-          <h2 className="text-xl font-bold">GRAPHICODE</h2>
+          <h2 className="text-xl font-bold">GRAPHICODE.TECH</h2>
           <p className="text-sm text-gray-400 mt-4 leading-relaxed">
             GRAPHICODE is my personal portfolio as a Full Stack Developer, focusing on frontend development, UI/UX design, and IoT solutions to build modern, efficient, and user-centered digital products.
           </p>
@@ -30,7 +30,7 @@ export default function Footer() {
       {/* ===== MOBILE VERSION ===== */}
       <div className="md:hidden max-w-md mx-auto text-center space-y-8">
 
-        <h2 className="text-xl font-bold">GRAPHICODE</h2>
+        <h2 className="text-xl font-bold">GRAPHICODE.TECH</h2>
 
         {/* Social Icons mobile */}
         <div className="flex items-center justify-center gap-4 pt-1">
@@ -44,7 +44,7 @@ export default function Footer() {
 
       {/* COPYRIGHT */}
       <div className="text-center text-gray-400 text-sm mt-10">
-        Copyright © 2025 Graphicode | Powered by Graphicode
+        Copyright © 2025 Graphicode.tech | Powered by Graphicode.tech
       </div>
     </footer>
   );
