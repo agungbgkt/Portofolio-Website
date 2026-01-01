@@ -6,7 +6,7 @@ import About from "./pages/About";
 import Project from "./pages/Projects";
 import ProjectHandGestureControl from "./pages/ProjectDetail";
 import Service from "./pages/Services";
-import Contact from "./pages/contact";
+import Contact from "./pages/Contact";
 import Footer from "./components/footer";
 
 function App() {
